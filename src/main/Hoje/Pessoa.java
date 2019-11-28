@@ -68,7 +68,7 @@ public class Pessoa {
 
     private void efetivarTroca(Troca troca) {
 
-        this.adicionar();
+
 
     }
 }
