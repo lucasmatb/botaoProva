@@ -8,7 +8,7 @@ import main.Pessoa;
 public class Teste {
     public static void main(String[] args) {
         Pessoa pessoa1 = new Pessoa("ze");
-        Pessoa pesso2 = new Pessoa("joao");
+        Pessoa pessoa2 = new Pessoa("joao");
 
         Jogador jogador1 = new Jogador("sa");
 
@@ -25,8 +25,6 @@ public class Teste {
         System.out.println(album1.quantidadeFigurinhas());
 
         jogador1.trocarFigurinha(pessoa1);
-
-
 
     }
 }

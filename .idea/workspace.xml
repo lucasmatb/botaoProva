@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03bd9192-856b-4834-a65e-de6ae9c1c2a9" name="Default Changelist" comment="" />
+    <list default="true" id="03bd9192-856b-4834-a65e-de6ae9c1c2a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Hoje/Coisa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Jogador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Teste.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +22,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UCn4ykwpJVV9GCWdnIxTagAYRm" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.Hoje" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -31,7 +48,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Teste (1)">
+    <configuration name="Teste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Hoje.Teste" />
+      <module name="projTroca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.Hoje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="view.Teste" />
       <module name="projTroca" />
@@ -47,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teste (1)" />
         <item itemvalue="Application.Teste" />
       </list>
     </recent_temporary>
@@ -63,5 +94,16 @@
       <updated>1574869258015</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
