@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03bd9192-856b-4834-a65e-de6ae9c1c2a9" name="Default Changelist" comment="" />
+    <list default="true" id="03bd9192-856b-4834-a65e-de6ae9c1c2a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/projetoBotao/Acionavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/projetoBotao/BotaoNovo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/projetoBotao/BotaoTecla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/projetoBotao/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/projetoBotao/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/projetoBotao/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/projetoBotao/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/projetoBotao/TipoDoBotao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projTroca/main/provasla/Acionar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projTroca/main/provasla/Botao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projTroca/main/provasla/Botao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projTroca/main/provasla/Lampada.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projTroca/main/provasla/Lampada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projTroca/main/provasla/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projTroca/main/provasla/Motor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projTroca/main/provasla/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projTroca/main/provasla/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/provasla/Acionar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/provasla/Botao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/provasla/Lampada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/provasla/Motor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/provasla/Teste.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,61 +29,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/provasla/Botao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/provasla/Acionar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/provasla/Motor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/provasla/Lampada.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/provasla/Teste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -75,11 +50,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/Hoje/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/main/provasla/TipoBotao.java" />
+        <option value="$PROJECT_DIR$/src/main/provasla/TipoDoBotao.java" />
         <option value="$PROJECT_DIR$/src/main/provasla/Acionar.java" />
-        <option value="$PROJECT_DIR$/src/main/provasla/Motor.java" />
-        <option value="$PROJECT_DIR$/src/main/provasla/Lampada.java" />
+        <option value="$PROJECT_DIR$/src/main/provasla/EstadoDaLampada.java" />
+        <option value="$PROJECT_DIR$/src/main/provasla/ClasseDoMeio.java" />
         <option value="$PROJECT_DIR$/src/main/provasla/Botao.java" />
+        <option value="$PROJECT_DIR$/src/main/provasla/BotaoTecla.java" />
+        <option value="$PROJECT_DIR$/src/main/provasla/Motor.java" />
+        <option value="$PROJECT_DIR$/src/main/provasla/Acionavel.java" />
+        <option value="$PROJECT_DIR$/src/main/provasla/Lampada.java" />
         <option value="$PROJECT_DIR$/src/main/provasla/Teste.java" />
+        <option value="$PROJECT_DIR$/src/main/provasla/BotaoNovo.java" />
+        <option value="$PROJECT_DIR$/src/main/projetoBotao/Motor.java" />
+        <option value="$PROJECT_DIR$/src/main/projetoBotao/BotaoNovo.java" />
       </list>
     </option>
   </component>
@@ -95,6 +79,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,14 +111,12 @@
               <item name="seeeeees" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="provasla" type="462c0819:PsiDirectoryNode" />
+              <item name="projetoBotao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Teste">
+  <component name="RunManager" selected="Application.Teste (2)">
     <configuration name="Teste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Hoje.Teste" />
       <module name="projTroca" />
@@ -185,6 +169,19 @@
       </method>
     </configuration>
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.projetoBotao.Teste" />
+      <module name="projTroca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.projetoBotao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.provasla.Teste" />
       <module name="projTroca" />
       <extension name="coverage">
@@ -199,6 +196,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teste (2)" />
         <item itemvalue="Application.Teste (1)" />
         <item itemvalue="Application.Teste" />
       </list>
@@ -220,7 +218,7 @@
   <component name="ToolWindowManager">
     <frame x="53" y="25" width="1867" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25260845" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553542" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -228,16 +226,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19978401" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2224622" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32829374" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -309,38 +307,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/provasla/Botao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/projetoBotao/BotaoTecla.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="384">
+          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/provasla/Acionar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/projetoBotao/BotaoNovo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/projetoBotao/Botao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/projetoBotao/TipoDoBotao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/provasla/Motor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/projetoBotao/Acionavel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="120">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/provasla/Lampada.java">
+    <entry file="file://$PROJECT_DIR$/src/main/projetoBotao/Estado.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/provasla/Teste.java">
+    <entry file="file://$PROJECT_DIR$/src/main/projetoBotao/Motor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        <state relative-caret-position="480">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/projetoBotao/Lampada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/projetoBotao/Teste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
